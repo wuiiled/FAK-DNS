@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
 [/c.admob.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
 [/c.android.clients.google.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
+[/c.pki.goog/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
 [/cache-management-prod.google.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
 [/cache.pack.google.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
 [/checkin.gstatic.com/]116.228.111.118 180.168.255.18 240e:58:c000:1000:116:228:111:118 240e:58:c000:1600:180:168:255:18 h3://dns.alidns.com/dns-query quic://dns.alidns.com
